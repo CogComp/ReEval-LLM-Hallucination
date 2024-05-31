@@ -1,0 +1,37 @@
+[
+    {
+        "q_id": "2b834c1887e34d8e8d6c712989ea68bd",
+        "question": "who sings what lovers do with maroon 5",
+        "answer": "American R&B singer SZA",
+        "evidence": "`` What Lovers Do '' is a song by American pop rock band Maroon 5 featuring American R&B singer SZA . It was released on August 30 , 2017 , as the lead single from the band 's sixth studio album Red Pill Blues ( 2017 ) . The song contains an interpolation of the 2016 song `` Sexual '' by Neiked featuring Dyo , therefore Victor R\u00e5dstr\u00f6m , Dyo and Elina Stridh are credited as songwriters .",
+        "source": "nq"
+    },
+    {
+        "q_id": "d3056d0a2cb742cbac0157144208f831",
+        "question": "who plays lead guitar on i want you she 's so heavy",
+        "answer": "John Lennon",
+        "evidence": "John Lennon -- lead and harmony vocals , multi-tracked lead guitar , Moog synthesizer   Paul McCartney -- harmony vocals , bass   George Harrison -- harmony vocals , multi-tracked lead guitar   Ringo Starr -- drums , congas , wind machine   Billy Preston -- Hammond organ",
+        "source": "nq"
+    },
+    {
+        "q_id": "99555ad41d49461a88c1b4ab84c4f079",
+        "question": "a long chain of amino acids linked by peptide bonds is a",
+        "answer": "polypeptide",
+        "evidence": "The covalent chemical bonds are formed when the carboxyl group of one amino acid reacts with the amino group of another . The shortest peptides are dipeptides , consisting of 2 amino acids joined by a single peptide bond , followed by tripeptides , tetrapeptides , etc . A polypeptide is a long , continuous , and unbranched peptide chain . Hence , peptides fall under the broad chemical classes of biological oligomers and polymers , alongside nucleic acids , oligosaccharides and polysaccharides , etc .",
+        "source": "nq"
+    },
+    {
+        "q_id": "855e6c59449b472c835e5be030be5b28",
+        "question": "when does the school year start in france",
+        "answer": "early September",
+        "evidence": "In Metropolitan France , the school year runs from early September to early July . The school calendar is standardised throughout the country and is the sole domain of the ministry .",
+        "source": "nq"
+    },
+    {
+        "q_id": "ad8a58e101f448f9826e4cbf2c90a260",
+        "question": "which city is selected under hriday scheme in karnataka",
+        "answer": "Ajmer",
+        "evidence": "With a duration of 4 years ( completing in November 2018 ) and a total outlay of \u20b9 500 crore ( US $78 million ) , the Scheme is set to be implemented in 12 identified Cities namely , Ajmer , Amaravati , Amritsar , Badami , Dwarka , Gaya , Kanchipuram , Mathura , Puri , Varanasi , Velankanni and Warangal .",
+        "source": "nq"
+    }
+]
